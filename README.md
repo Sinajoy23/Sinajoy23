@@ -1,13 +1,23 @@
-## Hi there 👋
 
-# 👋 Hello!
 
-I'm a tech self-starter with a passion for cloud security and automation. Currently building my skills in cybersecurity and IT business analysis.
+## 👋 Hello there!
 
-I love working on:
-- ✨ Frontend and backend integration
-- 🛡️ Cybersecurity home lab experiments
-- ☁️ Cloud compliance and GRC tools
+My name is **Hasina Joy B.**
 
-You can find me learning, building, and sharing here on GitHub. Let's connect! 
+I'm a tech self-starter with a passion for **cloud security** and **automation**. I'm currently building my skills in **cybersecurity** and **IT business analysis**.
+
+### 💻 What I’m Working On
+- ✨ Frontend and backend integration  
+- 🛡️ Cybersecurity home lab experiments  
+- ☁️ Cloud compliance and GRC tools  
+
+You can find me learning, building, and sharing here on GitHub. Let’s connect!
+
+---
+
+### 🌐 Connect with Me
+
+[🔗 LinkedIn](https://www.linkedin.com/in/hjoybelton/)  
+[📛 Credly Badges](https://www.credly.com/users/hasina-belton)  
+[🧠 Google Cloud Developer Badges](https://g.dev/Sinajoy3)
 
