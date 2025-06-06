@@ -27,3 +27,7 @@ You can find me learning, building, and sharing here on GitHub. Let’s connect!
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)
 ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Sinajoy23/Sinajoy23/main/Designer.png" width="800">
+</p>
+
