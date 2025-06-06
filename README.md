@@ -21,3 +21,5 @@ You can find me learning, building, and sharing here on GitHub. Let’s connect!
 [📛 Credly Badges](https://www.credly.com/users/hasina-belton)  
 [🧠 Google Cloud Developer Badges](https://g.dev/Sinajoy3)
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)
