@@ -13,6 +13,8 @@ I'm a tech self-starter with a passion for **cloud security** and **automation**
 
 You can find me learning, building, and sharing here on GitHub. Let’s connect!
 
+![Banner](https://your-image-link.com/banner.png)
+
 ---
 
 ### 🌐 Connect with Me
