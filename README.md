@@ -1,6 +1,6 @@
 
 
-## 👋 Hello there!
+##  Hello there!
 
 My name is **Hasina Joy B.**
 
@@ -15,7 +15,6 @@ You can find me learning, building, and sharing here on GitHub. Let’s connect!
 
 
 
----
 
 ### 🌐 Connect with Me
 
